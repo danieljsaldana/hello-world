@@ -3,12 +3,12 @@ entries:
   hello-world:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-20T19:01:10.088778+02:00"
+    created: "2024-07-20T19:08:38.934054+02:00"
     description: A Helm chart for Kubernetes
-    digest: a569d9803ad4deabc84863928ae05bcbfeb4569f14712b192fb9c8ce65f210f3
+    digest: a1a1395a2c25e023b81e21ec8a791a4fab7bbe468fb2fc0bdbf393d49ed9cf0f
     name: hello-world
     type: application
     urls:
     - https://danieljsaldana.github.io/hello-world/charts/hello-world-0.1.0.tgz
     version: 0.1.0
-generated: "2024-07-20T19:01:10.088336+02:00"
+generated: "2024-07-20T19:08:38.933608+02:00"
